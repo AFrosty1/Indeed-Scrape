@@ -1,0 +1,26 @@
+	Name	Industry	Sector	Headquarters	Founded	Notes
+40	Bell MTS	Telecommunications	Fixed line telecommunications	Winnipeg	1905	Telecom, part of BCE Inc.
+41	Ben Moss Jewellers	Consumer services	Specialty retailers	Winnipeg	1910	Jewelry retailer
+47	Bison Transport	Industrials	Delivery services	Winnipeg	1969	Transportation and logistics
+57	Boeing Canada	Industrials	Aerospace	Winnipeg	1934	Aircraft, part of Boeing (US)
+64	Boyd Autobody & Glass	Consumer services	Specialized consumer services	Winnipeg	1990[14]	Auto services chain
+75	Buhler Industries	Industrials	Commercial vehicles & trucks	Winnipeg	1969	Farm vehicles and equipment
+80	Calm Air	Consumer services	Airlines	Winnipeg	1962	Airline
+107	Cargill Ltd.	Consumer goods	Farming & fishing	Winnipeg	1928	Agriculture, part of Cargill (US)
+196	Federated Insurance	Financials	Full line insurance	Winnipeg	1920	Insurance
+207	Fort Garry Brewing Company	Consumer goods	Brewers	Winnipeg	1930[20]	Brewery
+252	Investors Group	Financials	Asset managers	Winnipeg	1926	Asset management
+286	Kitchen Craft	Consumer goods	Furnishings	Winnipeg	1972	Cabinet manufacturing
+320	Manitoba Hydro	Utilities	Alternative electricity	Winnipeg	1961	Power utility
+321	Manitoba Liquor & Lotteries	Consumer services	Specialty retailers	Winnipeg	2013	Alcohol and gambling regulation and distribution
+324	Manitoba Public Insurance	Financials	Full line insurance	Winnipeg	1971	State insurance services
+352	New Flyer Industries	Industrials	Commercial vehicles & trucks	Winnipeg	1930	Bus manufacture
+375	Palliser Furniture	Consumer goods	Furnishings	Winnipeg	1944	Furniture manufacturing
+379	Parrish & Heimbecker	Consumer goods	Food products	Winnipeg	1909	Grains
+381	Paterson Grain	Consumer goods	Farming & fishing	Winnipeg	1908	Agri-business
+388	Pollard Banknote	Industrials	Business support services	Winnipeg	1907	Printing
+407	Reimer Express Lines	Industrials	Trucking	Winnipeg	1952	Trucking and transportation
+409	Richardson International	Consumer goods	Food products	Winnipeg	1857	Food and agriculture
+476	Great West Life	Financials	Life insurance	Winnipeg	1891	Life and financial services
+506	Wawanesa Insurance	Financials	Full line insurance	Winnipeg	1896	Insurance
+512	Winpak	Industrials	Containers & packaging	Winnipeg	1977	Packaging

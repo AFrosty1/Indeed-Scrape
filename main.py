@@ -13,7 +13,7 @@ today = time.strftime('%Y-%m-%d')
 
 # Open Connection to SQL Server (local)
 con = py.connect("Driver={SQL Server Native Client 11.0};"
-                      "Server=DESKTOP-2RVUAFT\SQLEXPRESS;"
+                      "Server=***\SQLEXPRESS;"
                       "Database=indeed;"
                       "Trusted_Connection=yes;")
 

@@ -5,10 +5,7 @@ Created on Fri Feb 15 22:13:40 2019
 @author: Adrian
 """
 def indeedFetchNow(company):
-    '''
-    Fetch current stats from indeed.
-    Returns a Dictionary of the stats.
-    '''
+    '''Fetch current stats from indeed. Returns a Dictionary of the stats.'''
     from bs4 import BeautifulSoup
     import requests
     company_repl = company.replace(' ','-')

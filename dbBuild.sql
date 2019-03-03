@@ -1,8 +1,3 @@
-CREATE DATABASE indeed;
-
-USE indeed
-go
-
 CREATE TABLE companies(
 	cmp_Name varchar(50) PRIMARY KEY,
 	cmp_Industry varchar(50),
